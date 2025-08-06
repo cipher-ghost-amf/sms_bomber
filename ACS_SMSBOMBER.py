@@ -11,7 +11,7 @@ print("""\033[1;32m     ▀▄▀▄▀▄CIPHER-GHOST▄▀▄▀▄▀
 [•] Version      : 1.3.7
 [•] Status       : ONLINE
 [•] Telegram     : ghust_hub1_bot
-FB PAGE   		: GHOST HUB 
+[•] FB PAGE      : ANONYMOUS CYBER SHIELD ACS
 \033[1;31m══════════════════════════════════════════════════
 \033[1;36m[!] This tool is only applicable for Bangladesh.
 [!] Use responsibly. Only for educational purposes.
